@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Ayush anand
+# 💫 Hi , I'm Ayush anand
 **Data Analyst | Software Engineer | Generative AI, Machine Learning & Data Engineering**
 
 Email Me 👉 ✉️ **ayush.shiv7654@gmail.com** For Collaboration/Project or Anything Else. 😊😊
