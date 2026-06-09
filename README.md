@@ -3,7 +3,7 @@
  
 
 - 🔭 **I’m currently working on:** MERN Stack based projects 
-- 🌱 **I’m currently learning:** Gen AI 
+- 🌱 **I’m currently learning:** Agentic AI 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** ayush.shiv7654@gmail.com
 - 😄 **Pronouns:** Ayush anand
