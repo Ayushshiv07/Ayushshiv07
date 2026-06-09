@@ -18,7 +18,7 @@ Email Me 👉 ✉️ **ayush.shiv7654@gmail.com** For Collaboration/Project or A
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushshiv07&theme=github_dark" />
 </div>
 
 
